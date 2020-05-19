@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521339376104",
+    "firebase_url": "https://easylah-baceb.firebaseio.com",
+    "project_id": "easylah-baceb",
+    "storage_bucket": "easylah-baceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521339376104:android:5ea5159a42cc0298e6145d",
+        "android_client_info": {
+          "package_name": "com.example.easylah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521339376104-bfogh83aofftc8fqn5fp7e04df8mdgbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easylah",
+            "certificate_hash": "9e1832cba4168b0efabd99276d2097a3d47fcd18"
+          }
+        },
+        {
+          "client_id": "521339376104-otm5rgihe77ntsejueatpk2s04ikdijm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwegTUN5nwV8bkmyo-S4VGseQN_0boszY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521339376104-otm5rgihe77ntsejueatpk2s04ikdijm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
